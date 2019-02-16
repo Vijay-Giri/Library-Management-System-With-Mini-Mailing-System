@@ -12,5 +12,6 @@ By using library management system, the operation of borrowing and managing inve
 
 This system will store all the books and members information that consist book numbers, book titles, author names and racks to the system database. It also provides search function to help students find the book by number of book. Search function will search through the books database to look for the book and view where the book is situated.
 
-For the administrator user, only librarians have access to view or edit data from the system databases. Administrator user will handle administrative functions such as create new LMS user account and decide the number of days allowed for the borrowed books. Users need to enter correct password and user id before they can access to this function. From here, they can add, delete or update the book and borrower database
+For the administrator user, only librarians have access to view or edit data from the system databases. Administrator user will handle administrative functions such as create new LMS user account and decide the number of days allowed for the borrowed books. Users need to enter correct password and user id before they can access to this function. From here, they can add, delete or update the book and borrower database.
+
 Apart from this , there is a mini email system which helps the user and the administrator to exchange messages. Direct mail regarding issue/return of book is conveyed to everyone through mail. 
